@@ -1,5 +1,5 @@
 # MVCCRUD
-CRUD MVC ASP  6
+ASP.NET Core MVC C♯ CRUD con EntityFramework (.Net 6 y SQL Server)
 
 Cadena de Conexión
 
